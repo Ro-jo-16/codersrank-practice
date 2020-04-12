@@ -1,3 +1,9 @@
-// Start with the index.html and start editing.
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-import './style.css';
+<h1>My 
